@@ -68,7 +68,7 @@ My major continued development is to complete a website without the help of a fr
 
 ## Author
 
-- Frontend Mentor - [@Obiks](https://www.frontendmentor.io/profile/obiks)
+- Frontend Mentor - [@Obiks](https://www.frontendmentor.io/profile/Obiks)
 - Twitter - [@Obiks_Onyis](https://www.twitter.com/Obiks_Onyis)
 
 
