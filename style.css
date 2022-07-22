@@ -67,4 +67,12 @@ button{
     *{
     background-color:  hsl(0, 0%, 95%);       
     }
+        .sedan{
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+    }
+    .luxury{
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
 }
